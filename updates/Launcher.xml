@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.1.5.0</version>
-    <url>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/download/0.1.5/Installer.msi</url>
+    <version>0.1.6.0</version>
+    <url>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/download/0.1.6/Installer.msi</url>
     <changelog>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/latest</changelog>
     <mandatory>false</mandatory>
 </item>
