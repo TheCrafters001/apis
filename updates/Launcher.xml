@@ -2,6 +2,6 @@
 <item>
     <version>0.3.1.0</version>
     <url>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/download/0.3.1/Launcher_Installer.exe</url>
-    <changelog>http://thecrafters001.ga/categories/Changelog/Launcher/</changelog>
+    <changelog>http://thecrafters001.ga/changelogs/launcher/</changelog>
     <mandatory>true</mandatory>
 </item>
