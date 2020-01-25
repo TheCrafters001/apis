@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.4.0.0</version>
-    <url>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/download/0.4.0/Launcher_Updater.exe</url>
-    <changelog>http://thecrafters001.ga/changelogs/launcher/</changelog>
-    <mandatory>true</mandatory>
+    <version>0.4.0.1</version>
+    <url>https://github.com/TheCrafters001/TheCrafters001-Launcher/releases/download/0.4.0.1/Uninstaller.exe</url>
+    <changelog>http://thecrafters001.ga/</changelog>
+    <mandatory>false</mandatory>
 </item>
