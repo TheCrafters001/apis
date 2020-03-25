@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url></url>
+    <url>https://github.com/TheCrafters001/Game-Updater/releases/latest/download/GameUpdater_Installer.exe</url>
     <changelog>https://github.com/TheCrafters001/Game-Updater/releases/latest</changelog>
     <mandatory>false</mandatory>
 </item>
