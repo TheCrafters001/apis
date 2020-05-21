@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-sudo apt update
-sudo apt upgrade
-sudo apt install
+echo This will auto accept the space requirement stuff
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install -y
