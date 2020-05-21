@@ -6,4 +6,4 @@ Where (FileName) should be where you enter your file, (os-base) should be what y
 
 ## Example
 If you want to update your system (Ubuntu-based example) you would type
-```curl -ssl https://api.thecrafters001.ga/linux/ubuntu/category/update-system.sh | bash```
+```curl -ssl https://api.thecrafters001.ga/linux/ubuntu/system/update-system.sh | bash```
