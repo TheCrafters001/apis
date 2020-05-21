@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apt-get install synaptic
+sudo apt-get install synaptic -y
