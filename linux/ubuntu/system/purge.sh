@@ -1,23 +1,10 @@
 #!/bin/bash
-# Bash Menu Script Example
 
-PS3='Are you sure you want to Purge your APT? [Y/n]: '
-options=("Option 1" "Option 2" "Option 3" "Quit")
-select opt in "${options[@]}"
-do
-    case $opt in
-        "Option 1")
-            echo "you chose choice 1"
-            ;;
-        "Option 2")
-            echo "you chose choice 2"
-            ;;
-        "Option 3")
-            echo "you chose choice $REPLY which is $opt"
-            ;;
-        "Quit")
-            break
-            ;;
-        *) echo "invalid option $REPLY";;
-    esac
-done
+echo WARNING: THIS WILL PURGE YOUR APT!
+echo PRESS CTRL + C to CANCEL
+echo WAIT 5 SECONDS IF YOU WISH TO WAIT
+
+ping localhost -w 5 >nul
+
+sudo apt purge
+sudo apt-get auto-remove
