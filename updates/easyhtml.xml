@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.0.0</version>
-    <url>https://github.com/TheCrafters001/EasyHTML/releases/latest/download/EasyHTMLSetup.exe</url>
+    <version>2.1.0.0</version>
+    <url>https://github.com/TheCrafters001/Easy-Software-Suite/releases/latest/download/EasySoftwareSuite_Setup.exe</url>
     <changelog>https://github.com/TheCrafters001/EasyHTML/releases/latest</changelog>
     <mandatory>false</mandatory>
 </item>
